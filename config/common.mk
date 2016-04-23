@@ -58,7 +58,6 @@ PRODUCT_PACKAGES += \
     Gallery2 \
     KernelAdiutor \
     Launcher3 \
-    LayersManager \
     LMT \
     LockClock \
     SlimOTA \

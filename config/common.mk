@@ -59,7 +59,6 @@ PRODUCT_PACKAGES += \
     KernelAdiutor \
     Launcher3 \
     LMT \
-    LockClock \
     SlimOTA \
     Terminal \
     TwistedAbout
